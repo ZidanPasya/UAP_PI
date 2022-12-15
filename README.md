@@ -1,6 +1,6 @@
-# WikiGame\n
+# WikiGame
 
-#Anggota kelompok
+Anggota kelompok
 #Muhammad Zidan Pasya
 #Muhammad Satria Aulia
 
